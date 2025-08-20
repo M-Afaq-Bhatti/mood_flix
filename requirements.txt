@@ -1,0 +1,14 @@
+# Fixed Python dependencies - tested versions
+streamlit
+pandas
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+plotly
+pillow
+
+# Additional dependencies that might be needed
+numpy
+scipy
+scikit-learn
